@@ -1,8 +1,8 @@
 # Project Bank
 
 ## Overview
-This is an application and requirement for the subject, Mobile Application - Laboratory. 
-It is an open source code where you can download it and use it as educational purpose only.
+A bank application where it is readily and store the data into Firebase Database. This is an application and requirement for the subject, Mobile Application - Laboratory. It is an open source code where you can download it and use it as educational purpose only.
+You can edit it as well as add some other feature for the reason that it is not yet finished.
 
 ## Requirements
 *   Android Studio Chipmunk | 2021.2.1 Patch 1 for Windows 64-bit (929 MiB)
